@@ -57,6 +57,7 @@ Tailwind CSS is used in this project. Tailwind CSS offers a utility-first approa
 ### Additional Features
 
 **Video Section Buttons:** Click events can be added to the buttons in the video section.
+
 **Hint Field Usage:** Hint fields could be added to provide users with a better experience.
 
 ### Challenges and Solutions
